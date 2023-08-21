@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ZusUEMEM6siCm7G7lKvAA/qlCX0HIIYyt+40LonqVU=",
+  "Source": "CeVMTConnectorApi",
+  "BasePath": "_content/CeVMTConnectorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
