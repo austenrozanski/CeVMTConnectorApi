@@ -16,7 +16,7 @@ public class AdminController : ControllerBase
     }
 
     [HttpPost("transfer-data")]
-    public async Task<ActionResult<IEnumerable<dynamic>>> TransferData()
+    public async Task<ActionResult> TransferData()
     {
         try
         {
@@ -31,7 +31,7 @@ public class AdminController : ControllerBase
     }
     
     [HttpGet("{id}")]
-    public async Task<ActionResult<IEnumerable<dynamic>>> TransferData(int id)
+    public async Task<ActionResult<IEnumerable<dynamic>>> GetExample(int id)
     {
         try
         {
